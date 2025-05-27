@@ -20,6 +20,8 @@ If you have any questions please use the Issues tab or submit a pull request.
 
 
 ## React JS / View Map
-<video src="albanian_map_svg.mov" controls width="600">
+[Preview](https://github.com/edyrkaj/albania-map/blob/e59bdfa82c180a0eda8684b00a129821a0116b71/albanian_map_svg.mov)
+<video src="https://github.com/edyrkaj/albania-map/blob/e59bdfa82c180a0eda8684b00a129821a0116b71/albanian_map_svg.mov" controls width="600">
   Your browser does not support the video tag.
 </video>
+
