@@ -13,7 +13,13 @@ You will find the layout (svg & png) of city halls of Albania map from the admin
 ![logo](12-qarqe.png "Qarqet")
 
 ## Questions
-If you have any questions please use the Issues tab or submit a pull request. 
+If you have any questions please use the Issues tab or submit a pull request.
 
 ## Contributors
 [@ilirhushi](http://ilirhushi.me) & [@edyrkaj](http://www.e-soft.al/Main.aspx)
+
+
+## React JS / View Map
+<video src="albanian_map_svg.mov" controls width="600">
+  Your browser does not support the video tag.
+</video>
