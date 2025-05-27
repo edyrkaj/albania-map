@@ -1,0 +1,391 @@
+.map svg {
+	height: auto;
+	width: 400px;
+	margin: 0 auto;
+	display: block;
+}
+
+.map g {
+	fill: #ccc;
+	stroke: #333;
+	stroke-width: 1;
+}
+
+.map g:hover {
+	fill: #fc0 !important;
+	cursor: pointer;
+}
+
+[class^="st"] {
+  transition: border-color 0.25s, transform 0.25s;
+}
+[class^="st"]:hover {
+  border: 2px solid #646cff;
+  transform: translateX(8px);
+}
+
+.st0 {
+	fill: #e57373;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st1 {
+	fill: #f06292;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st2 {
+	fill: #ba68c8;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st3 {
+	fill: #64b5f6;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st4 {
+	fill: #4dd0e1;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st5 {
+	fill: #4db6ac;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st6 {
+	fill: #81c784;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st7 {
+	fill: #dce775;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st8 {
+	fill: #ffd54f;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st9 {
+	fill: #ffb74d;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st10 {
+	fill: #a1887f;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st11 {
+	fill: #90a4ae;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st12 {
+	fill: #f44336;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st13 {
+	fill: #e91e63;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st14 {
+	fill: #9c27b0;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st15 {
+	fill: #3f51b5;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st16 {
+	fill: #2196f3;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st17 {
+	fill: #00bcd4;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st18 {
+	fill: #009688;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st19 {
+	fill: #4caf50;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st20 {
+	fill: #cddc39;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st21 {
+	fill: #ffeb3b;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st22 {
+	fill: #ffc107;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st23 {
+	fill: #ff9800;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st24 {
+	fill: #ff5722;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st25 {
+	fill: #795548;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st26 {
+	fill: #607d8b;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st27 {
+	fill: #f8bbd0;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st28 {
+	fill: #ce93d8;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st29 {
+	fill: #b39ddb;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st30 {
+	fill: #9fa8da;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st31 {
+	fill: #90caf9;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st32 {
+	fill: #80deea;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st33 {
+	fill: #80cbc4;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st34 {
+	fill: #a5d6a7;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st35 {
+	fill: #e6ee9c;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st36 {
+	fill: #fff59d;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st37 {
+	fill: #ffe082;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st38 {
+	fill: #ffcc80;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st39 {
+	fill: #bcaaa4;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st40 {
+	fill: #b0bec5;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st41 {
+	fill: #ef9a9a;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st42 {
+	fill: #f48fb1;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st43 {
+	fill: #ce93d8;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st44 {
+	fill: #b39ddb;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st45 {
+	fill: #9fa8da;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st46 {
+	fill: #90caf9;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st47 {
+	fill: #80deea;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st48 {
+	fill: #80cbc4;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st49 {
+	fill: #a5d6a7;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st50 {
+	fill: #e6ee9c;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st51 {
+	fill: #fff59d;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st52 {
+	fill: #ffe082;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st53 {
+	fill: #ffcc80;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st54 {
+	fill: #bcaaa4;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st55 {
+	fill: #b0bec5;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st56 {
+	fill: #d7ccc8;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st57 {
+	fill: #cfd8dc;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st58 {
+	fill: #ff8a65;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st59 {
+	fill: #a1887f;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
+
+.st60 {
+	fill: #c5e1a5;
+	stroke: #04f900;
+	stroke-miterlimit: 10;
+}
